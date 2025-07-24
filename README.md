@@ -6,3 +6,6 @@ Este repositório é dedicado ao projeto Alura Plus que foi desenvolvido durante
 
 ## Confira o resultado 😊
 https://saramariasantosdev.github.io/projeto-alura-plus/
+
+## Licença
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
